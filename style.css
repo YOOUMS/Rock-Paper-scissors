@@ -37,11 +37,11 @@ body {
 .button {
     padding: 10px 20px;
     width: 100px;
-
+    font-size: 1vw;
     border: none;
     background-color: #78bced;
-    color: white;
-    font-weight: bold;
+    color: midnightblue;
+    font-weight: bolder;
     border-radius: 7px;
 }
 
